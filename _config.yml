@@ -17,8 +17,9 @@ paginate_path: "/projects/page:num/"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "index"
-  Projects: "projects/index.html"
+  Home: "index"
+  Experiences: "experiences"
+  Projects: "projects/"
   # Resume: "" <-- can look into using this for a live resume: https://github.com/jglovier/resume-template
   Misc: "miscellaneous"
 
