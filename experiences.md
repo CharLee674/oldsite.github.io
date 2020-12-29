@@ -14,3 +14,19 @@ In terms of experiences, I have none.
 LAYOUT TB IMPLEMENTED
 
 TODO: FINISH THIS page
+
+# Skills
+
+**I can confidently work with**
+
+
+**I have minor experiences/ can probably figure out**
+
+- PCB Design
+- CAD Modelling
+- 
+
+**I have dabbled in**
+
+- Machine Learning
+- Web Front-End Development
