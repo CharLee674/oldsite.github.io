@@ -6,4 +6,4 @@ thumbnail-img: assets/img/thumb.png
 tags: [software, circuits, mechanical]
 ---
 
-Robot go brrrr
+Work in progress...
