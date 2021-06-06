@@ -20,7 +20,7 @@ share-img: "/assets/img/portrait.jpg"
 
 Hi there! My name is **Charles Lee**, a current 3rd year [*Engineering Physics*](https://www.engphys.ubc.ca/) student at the University of British Columbia. My degree consists of a lot of math and physics combined with fundamental classes in electrical, mechanical, and some software engineering. I am hoping to apply my diverse background through a career in tech entrepreneurship and innovate to help others.
 
-![](assets/img/profesh_photo.jpg){: .image-left}
+![](){: .image-left}
 
 My previous experiences include work with circuitry, [robotics](_posts/2020-12-28-robot_summer.md), software automation, and electrical test and measurement equipments. I have some experience with web development, software virtualization, and machine learning (I will be taking a project course in ML this term!), and I'm also currently on a [nanosatellite student engineering team](https://www.ubcorbit.com/) that will be launching a CubeSat in Winter 2021!
 
